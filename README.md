@@ -6,7 +6,7 @@ A set of chess engines, each trained with some particular specialization, all of
 
 I saw this YouTube video pop up on my home page, likely as one of many attempts made by my algorithm to push me to get better at chess. While that still has yet to happen (please don't ask me what my chess.com rating is), I was fairly intrigued by the idea of creating chess engines made to be intentionally bad at playing chess, given the volume of them that do exactly the opposite. I appreciated the variety and creativity of the engines in the paper and decided to try and implement some of them myself using Python.
 
-This project is currently still a work in progress. So far, I have built engines for all 18 of the simple players (Section 2.1 in the paper). 
+This project is currently still a work in progress. So far, I have built engines for all 18 of the simple players (Section 2.1 in the paper). I also intend on updating the GUI at some point, it's a little clunky right now, but it does work okay for its purpose.
 
 ## Installation
 1. Clone this repository:
